@@ -22,9 +22,10 @@ const RESOURCES = {
 "images/image.svg": "b4437fab94c7f2bde7f03e597e5ad550",
 "images/sw_push.svg": "9a6ffa7cbf845f22d82c869468ec348f",
 "images/sw_release.svg": "faf608eefb292f3b41b9d51758353096",
-"index.html": "d546f88aa75a479b27750c2999fe5251",
-"/": "d546f88aa75a479b27750c2999fe5251",
-"main.dart.js": "9454dd1fbf10e9ca81177d5ef607e996",
+"index.html": "501600cd2d9fb59b3a8619b1ee5d8a47",
+"/": "501600cd2d9fb59b3a8619b1ee5d8a47",
+"loading.webp": "0dfec5c79f256500cf23980c3c19f70a",
+"main.dart.js": "555015b85a615c8ceffa99142942d186",
 "manifest.json": "c8c2cf264c11103dff49482eb5bc5e54"
 };
 
