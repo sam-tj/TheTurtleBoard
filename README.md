@@ -1,3 +1,3 @@
 # TheTurtleBoard
 
-Visit this: [sam-tj.github.io/TheTurtleBoard](https://sam-tj.github.io/TheTurtleBoard/)
+Visit this: [https://sam-tj.github.io/TheTurtleBoard/](https://sam-tj.github.io/TheTurtleBoard/)
