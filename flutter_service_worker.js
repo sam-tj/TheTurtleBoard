@@ -3,14 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "68c4c3dba2712072fb9eeb8618252cc0",
+  "assets/AssetManifest.json": "e3ffbdc1a357b2531af48fcd9f6d5f2f",
 "assets/assets/sound/buzzer.wav": "736c2084f87e20d53705726444e1f918",
 "assets/FontManifest.json": "af0f5aacc8cac1cb72b866ecf42a712c",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/fonts/Pacifico-Regular.ttf": "c1a28478f7a0cc5e25bb395d0543274d",
 "assets/images/1drawerBack.jpg": "f9de7ae1f11a2853164d3d55356c9257",
-"assets/images/drawerBack.jpg": "62727359dfc204c01e9a71904723bad9",
+"assets/images/2drawerBack.jpg": "62727359dfc204c01e9a71904723bad9",
+"assets/images/drawerBack.jpg": "67e0d3e2add89afbdfccf6b585fef393",
 "assets/images/em18Con.png": "bf5b3168eeef9991ee35869091fb1521",
+"assets/images/ENlcdCon.png": "185293a4f6c67af1c2938ebfbbe6a4e5",
 "assets/images/image.svg": "b4437fab94c7f2bde7f03e597e5ad550",
 "assets/images/keyCon.png": "10e5556c9233d81359c2a37b9ad8dac1",
 "assets/images/lcdCon.png": "952fbfa4803a08ca294216b9bc383901",
@@ -20,7 +22,7 @@ const RESOURCES = {
 "assets/images/sw_release.svg": "faf608eefb292f3b41b9d51758353096",
 "assets/NOTICES": "89c8a4fa3b6d99bfa45e398a885ca866",
 "assets/res/checkedMeOut.txt": "e4da3b7fbbce2345d7772b0674a318d5",
-"assets/res/C_stock_data.csv": "fb18dd15d218780c24fee23a21f2162a",
+"assets/res/C_stock_data.csv": "0e3471007e701eb3cca76967e10c3ab6",
 "assets/sound/buzzer.wav": "736c2084f87e20d53705726444e1f918",
 "favicon.png": "8db3069bf59878a2a108e75415a59c6e",
 "icons/Icon-192.png": "24fe1aff79e5665788273117e380db74",
@@ -31,7 +33,7 @@ const RESOURCES = {
 "index.html": "32e5c98a8fa1571768379096192d64f7",
 "/": "32e5c98a8fa1571768379096192d64f7",
 "loading.webp": "0dfec5c79f256500cf23980c3c19f70a",
-"main.dart.js": "bc3596aabde8213430c67fe95ae24d11",
+"main.dart.js": "b1f3ad62fc0d46273116fb3cbfdb6034",
 "manifest.json": "c8c2cf264c11103dff49482eb5bc5e54"
 };
 
