@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/images/ripple.svg": "fbb941d62e29087e2d63f5c55dc62d21",
 "assets/images/sw_push.svg": "9a6ffa7cbf845f22d82c869468ec348f",
 "assets/images/sw_release.svg": "faf608eefb292f3b41b9d51758353096",
-"assets/NOTICES": "89c8a4fa3b6d99bfa45e398a885ca866",
+"assets/NOTICES": "b936cd6971a155f31388b8504635552f",
 "assets/res/checkedMeOut.txt": "e4da3b7fbbce2345d7772b0674a318d5",
 "assets/res/C_stock_data.csv": "0e3471007e701eb3cca76967e10c3ab6",
 "assets/sound/buzzer.wav": "736c2084f87e20d53705726444e1f918",
@@ -33,7 +33,7 @@ const RESOURCES = {
 "index.html": "32e5c98a8fa1571768379096192d64f7",
 "/": "32e5c98a8fa1571768379096192d64f7",
 "loading.webp": "0dfec5c79f256500cf23980c3c19f70a",
-"main.dart.js": "727540e6af105f6a59202d9faedc5218",
+"main.dart.js": "7f9cf0ad111ed9999513b4d3776624ff",
 "manifest.json": "c8c2cf264c11103dff49482eb5bc5e54"
 };
 
