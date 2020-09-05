@@ -1,0 +1,57 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="turtle_rgb_led" id="LV^e41T}-S7@:VH*%)7P" x="213" y="88">
+    <field name="PIN1">6</field>
+    <field name="STAT1">HIGH</field>
+    <field name="PIN2">7</field>
+    <field name="STAT2">LOW</field>
+    <field name="PIN3">8</field>
+    <field name="STAT3">LOW</field>
+    <next>
+      <block type="board_base_delay" id="}$;[^VJE}XZqCOFYx/-A">
+        <value name="DELAY_TIME">
+          <shadow type="math_number" id="=WftB#dvH9rZV_D%T*~f">
+            <field name="NUM">1000</field>
+          </shadow>
+        </value>
+        <next>
+          <block type="turtle_rgb_led" id="bZjWKNeT|!K{;~jT{5mD">
+            <field name="PIN1">6</field>
+            <field name="STAT1">LOW</field>
+            <field name="PIN2">7</field>
+            <field name="STAT2">HIGH</field>
+            <field name="PIN3">8</field>
+            <field name="STAT3">LOW</field>
+            <next>
+              <block type="board_base_delay" id="6`}{d!?LG!iI@D:ROvcK">
+                <value name="DELAY_TIME">
+                  <shadow type="math_number" id="nH6SsAQV/HX{Xeq(Db0|">
+                    <field name="NUM">1000</field>
+                  </shadow>
+                </value>
+                <next>
+                  <block type="turtle_rgb_led" id="7DA|(*#:K_B71IFBX@K@">
+                    <field name="PIN1">6</field>
+                    <field name="STAT1">LOW</field>
+                    <field name="PIN2">7</field>
+                    <field name="STAT2">LOW</field>
+                    <field name="PIN3">8</field>
+                    <field name="STAT3">HIGH</field>
+                    <next>
+                      <block type="board_base_delay" id="2iWOq~5=SUsg5:m`}D7Q">
+                        <value name="DELAY_TIME">
+                          <shadow type="math_number" id="o3[]LHl_~oPA0K0^_|g2">
+                            <field name="NUM">1000</field>
+                          </shadow>
+                        </value>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
