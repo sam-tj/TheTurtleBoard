@@ -24,7 +24,7 @@ const RESOURCES = {
 "assets/images/sw_release.svg": "faf608eefb292f3b41b9d51758353096",
 "assets/NOTICES": "b936cd6971a155f31388b8504635552f",
 "assets/res/checkedMeOut.txt": "e4da3b7fbbce2345d7772b0674a318d5",
-"assets/res/C_stock_data.csv": "0d944891ece13993920c3055ddd5e0c9",
+"assets/res/C_stock_data.csv": "0a47ea758097909033088daa3714bc9a",
 "assets/sound/buzzer.wav": "736c2084f87e20d53705726444e1f918",
 "favicon.png": "8db3069bf59878a2a108e75415a59c6e",
 "icons/Icon-192.png": "24fe1aff79e5665788273117e380db74",
@@ -32,7 +32,7 @@ const RESOURCES = {
 "index.html": "27733777d4fa8019cead7fc629f76a84",
 "/": "27733777d4fa8019cead7fc629f76a84",
 "loading.webp": "0dfec5c79f256500cf23980c3c19f70a",
-"main.dart.js": "71a0224e8c700e5321b66580933a1f39",
+"main.dart.js": "68c06ad119fdcd2b098f3e91592e7322",
 "manifest.json": "c8c2cf264c11103dff49482eb5bc5e54"
 };
 
